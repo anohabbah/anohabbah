@@ -3,15 +3,14 @@
 [🇫🇷 Version française](./README.fr.md)
 
 Software engineer by day, still a software engineer by night (I know, predictable).
-Based in **Rennes 🇫🇷**, shipping things at **Neo-Soft Groupe**.
+Based in **Rennes 🇫🇷**, shipping things at **Ns-Soft Groupe*
 
 ```ts
 const abbah = {
-  code:     ['Java ☕', 'TypeScript', 'PHP'],
-  loves:    ['Laravel', 'Vue', 'Angular', 'Spring Boot'],
+  code:     ['Java ☕', 'TypeScript'],
+  loves:    ['Vue', 'Angular', 'Spring Boot'],
   current:  'teaching Angular and Spring to play nice 🤝',
-  learning: 'AI-assisted spec-driven dev — letting the robots help',
-  ask_me:   'anything web. seriously. anything.',
+  learning: 'AI-assisted spec-driven dev — letting the robots help'
 };
 ```
 

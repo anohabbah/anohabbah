@@ -3,20 +3,19 @@
 [🇬🇧 English version](./README.md)
 
 Développeur le jour, et... toujours développeur la nuit (oui, c'est prévisible).
-Basé à **Rennes 🇫🇷**, je code chez **Neo-Soft Groupe**.
+Basé à **Rennes 🇫🇷**, je code chez **os-Soft Groupe**.
 
 ```ts
 const abbah = {
-  code:        ['Java ☕', 'TypeScript', 'PHP'],
-  jadore:      ['Laravel', 'Vue', 'Angular', 'Spring Boot'],
+  code:        ['Java ☕', 'TypeScript'],
+  jadore:      ['Vue', 'Angular', 'Spring Boot'],
   enCeMoment:  'faire cohabiter Angular et Spring en bonne intelligence 🤝',
   japprends:   'le dev assisté par IA — laissons les robots aider un peu',
-  demande_moi: 'tout ce qui touche au web. vraiment, tout.',
 };
 ```
 
 #### 🛠 Dans la boîte à outils
-`Java` · `Spring Boot` · `TypeScript` · `Angular` · `Vue` · `Laravel` · `PHP` · `PostgreSQL` · `Keycloak` · `Docker` · *et une bonne dose de stack traces*
+`Java` · `Spring Boot` · `TypeScript` · `Angular` · `Vue` · `PostgreSQL` · `Keycloak` · `Docker` · *et une bonne dose de stack traces*
 
 #### 🔥 Ce sur quoi je bricole en ce moment
 - 🔐 **[ngcloak](https://github.com/anohabbah/ngcloak)** — Angular + Keycloak, parce que "fais-moi confiance" n'est pas une stratégie d'auth
