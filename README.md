@@ -3,7 +3,7 @@
 [🇫🇷 Version française](./README.fr.md)
 
 Software engineer by day, still a software engineer by night (I know, predictable).
-Based in **Rennes 🇫🇷**, shipping things at **Ns-Soft Groupe*
+Based in **Rennes 🇫🇷**, shipping things at *eos-Soft Group*
 
 ```ts
 const abbah = {
@@ -15,7 +15,7 @@ const abbah = {
 ```
 
 #### 🛠 What's in the toolbox
-`Java` · `Spring Boot` · `TypeScript` · `Angular` · `Vue` · `Laravel` · `PHP` · `PostgreSQL` · `Keycloak` · `Docker` · *and a healthy amount of stack traces*
+`Java` · `Spring Boot` · `TypeScript` · `Angular` · `Vue` · `PostgreSQL` · `Keycloak` · `Docker` · *and a healthy amount of stack traces*
 
 #### 🔥 Lately I've been tinkering with
 - 🔐 **[ngcloak](https://github.com/anohabbah/ngcloak)** — Angular + Keycloak, because "trust me bro" is not an auth strategy
