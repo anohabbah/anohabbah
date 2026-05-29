@@ -3,7 +3,7 @@
 [🇬🇧 English version](./README.md)
 
 Développeur le jour, et... toujours développeur la nuit (oui, c'est prévisible).
-Basé à **Rennes 🇫🇷**, je code chez Ne**-Soft Groupe**.
+Basé à **Rennes 🇫🇷**, je code chez *Neosoft Groupe*.
 
 ```ts
 const abbah = {

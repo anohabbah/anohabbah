@@ -3,7 +3,7 @@
 [🇫🇷 Version française](./README.fr.md)
 
 Software engineer by day, still a software engineer by night (I know, predictable).
-Based in **Rennes 🇫🇷**, shipping things at *eos-Soft Group*
+Based in **Rennes 🇫🇷**, shipping things at *Neosoft Groupe*
 
 ```ts
 const abbah = {
@@ -31,4 +31,4 @@ const abbah = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anohabbah&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
-> *"It works on my machine" is a valid deployment strategy. Don't @ me.*
+> *"It works on my machine" is a valid deployment strategy.*
